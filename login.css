@@ -1,9 +1,0 @@
-body{
-    text-align: center ;
-    background-image: radial-gradient(circle,orange,violet,black );
-}
-div{
-    border:5px solid rgb(25,0,255);
-    width: 600px;
-    margin-left: 500px;
-    margin-top: 50px;
